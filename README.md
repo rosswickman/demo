@@ -1,5 +1,7 @@
 # Edgio v7 Vue.js SSR Template
 
+Test Bump for Teams RSS Integration
+
 This example is a basic Vue.js 4 template powered by Edgio.
 
 **Preview**: https://edgio-community-examples-v7-vuejs-live.edgio.link/
